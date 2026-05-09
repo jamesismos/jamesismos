@@ -1,52 +1,49 @@
 # 👨‍💻 James Oliveira
 
-🎓 Estudante de Ciência da Computação (UBEC) e Sistemas para Internet.  
-💼 Profissional de TI com anos de experiência em suporte, manutenção e infraestrutura.  
-🚀 Em transição de carreira para a área de desenvolvimento e tecnologia web.
+Profissional de TI com mais de 10 anos de experiência em suporte técnico, manutenção, infraestrutura básica e resolução de problemas em ambientes reais.
+
+Atuo na prática com computadores, notebooks, redes, sistemas, impressoras, usuários e rotinas administrativas ligadas à tecnologia.
+
+Atualmente aprofundo meus estudos em Sistemas para Internet, Git, GitHub, automações e desenvolvimento web, usando programação como ferramenta para melhorar processos e resolver problemas do dia a dia.
 
 ---
 
-## 🧰 Sobre mim
+## Sobre mim
 
-Atuo com Tecnologia da Informação há mais de 10 anos, com foco em:
+Tenho experiência com:
 
-- Montagem e manutenção de computadores e notebooks  
-- Instalação, formatação e otimização de sistemas  
-- Suporte técnico (presencial e remoto)  
-- Configuração de redes, sistemas e estações de trabalho  
+- Suporte técnico presencial e remoto
+- Manutenção, formatação e otimização de computadores
+- Instalação e configuração de sistemas
+- Redes, impressoras e estações de trabalho
+- Atendimento a usuários e diagnóstico de problemas
+- Organização de processos e documentação técnica
 
-Atualmente, estou direcionando minha carreira para a área de **desenvolvimento de software**, com foco em aprender e aplicar conceitos de:
+---
 
-- Programação Web (HTML, CSS, JavaScript)
-- Lógica de programação
+## Em aprendizado contínuo
+
 - Git e GitHub
+- HTML, CSS e JavaScript
 - Python e automações
-- Estrutura de dados e algoritmos
+- Lógica de programação
+- Boas práticas de documentação
+- Projetos práticos para portfólio
 
 ---
 
-## 🧠 Em aprendizado contínuo
+## Projetos
 
-- Fundamentos de front-end e back-end  
-- Versionamento de código com Git  
-- Boas práticas de desenvolvimento  
-- Projetos simples e práticos para portfólio
+Aqui você encontrará:
 
----
-
-## 📂 Repositórios e projetos
-
-Aqui você vai encontrar exemplos de:
-
-- Scripts e ferramentas para facilitar o dia a dia na TI  
-- Materiais de estudo e aprendizado prático  
-- Projetos em desenvolvimento voltados à web  
+- Scripts úteis para rotinas de TI
+- Estudos e testes práticos
+- Projetos simples de web e automação
+- Ferramentas voltadas para produtividade e suporte técnico
 
 ---
 
-## 📫 Contato
+## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/jamesoliveirabr/)
-- [GitHub](https://github.com/jamesismos)
-
----
+- LinkedIn: https://www.linkedin.com/in/jamesoliveirabr/
+- GitHub: https://github.com/jamesismos
