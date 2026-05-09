@@ -4,7 +4,7 @@ Profissional de TI com mais de 10 anos de experiência em suporte técnico, manu
 
 Atuo na prática com computadores, notebooks, redes, sistemas, impressoras, usuários e rotinas administrativas ligadas à tecnologia.
 
-Atualmente aprofundo meus estudos em Sistemas para Internet, Git, GitHub, automações e desenvolvimento web, usando programação como ferramenta para melhorar processos e resolver problemas do dia a dia.
+Atualmente aprofundo meus estudos em Sistemas para Internet, Git, GitHub, automações e desenvolvimento web, usando programação como ferramenta para melhorar processos e resolver problemas do dia a dia. Aluno do Curso.dev
 
 ---
 
