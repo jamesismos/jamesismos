@@ -1,94 +1,136 @@
 # 👨‍💻 James Oliveira
 
-Profissional de TI com mais de 10 anos de experiência prática em suporte técnico, manutenção, infraestrutura, otimização de sistemas e resolução de problemas em ambientes reais.
+Profissional de Tecnologia da Informação com mais de 10 anos de experiência prática em suporte técnico, infraestrutura, manutenção, sistemas e resolução de problemas em ambientes reais.
 
-Atuo com suporte presencial e remoto, manutenção de computadores, redes, impressoras, organização de ambientes de TI e desenvolvimento de soluções web voltadas para automação, produtividade e aquisição de clientes.
+Atuo na interseção entre tecnologia, automação, desenvolvimento web e produtos digitais, transformando necessidades reais em soluções funcionais.
 
-Nos últimos anos venho aprofundando conhecimentos em desenvolvimento web moderno, SEO (Search Engine Optimization — otimização para mecanismos de busca), automações e criação de MVPs (Minimum Viable Product — versão inicial funcional de um produto para validação rápida).
-
-Utilizo programação como ferramenta prática para resolver problemas reais, automatizar processos e transformar ideias em produtos funcionais.
+Além da experiência em suporte e infraestrutura, desenvolvo plataformas web, MVPs (Minimum Viable Product — versão inicial funcional para validação rápida), automações e ferramentas voltadas para produtividade, aquisição de clientes e otimização de processos.
 
 ---
 
-# 🚀 Projetos em produção
-
-* [James Tech](https://jamestechbr.vercel.app/?utm_source=chatgpt.com)
-  Plataforma institucional voltada para suporte técnico, manutenção, recomendações e serviços de TI.
-
-* [Calcular Minha Rescisão](https://calcularminharescisao.com.br/?utm_source=chatgpt.com)
-  Ferramenta web voltada para estimativa trabalhista e geração de tráfego orgânico via SEO.
-
-* [Tem Juros Abusivos](https://temjurosabusivos.com.br/?utm_source=chatgpt.com)
-  Plataforma de triagem financeira com integração de dados públicos e foco em funil de conversão jurídica.
-
-* Em desenvolvimento:
-  Plataforma voltada para aposentadoria, benefícios e consultas previdenciárias.
-
----
-
-# 🛠️ Experiência prática
+# 🚀 O que faço
 
 * Suporte técnico presencial e remoto
 * Manutenção e otimização de computadores
-* Formatação e migração de sistemas
-* Instalação e configuração de softwares
-* Diagnóstico e resolução de problemas
-* Redes e infraestrutura básica
-* Impressoras e estações de trabalho
-* Organização de processos técnicos
-* Atendimento ao usuário final
-* Documentação técnica
-* Desenvolvimento de MVPs web
-* SEO técnico
+* Infraestrutura e redes de pequeno porte
+* Desenvolvimento de aplicações web
+* Automação de processos
+* Criação de MVPs
+* SEO (Search Engine Optimization — otimização para mecanismos de busca)
+* Integração com APIs públicas
 * Estruturação de funis de conversão
+* Documentação técnica
 
 ---
 
-# 💻 Tecnologias e ferramentas
+# 🛠️ Tecnologias e ferramentas
 
-* Git e GitHub (controle de versão e colaboração)
-* HTML, CSS e JavaScript
-* TypeScript (JavaScript tipado para maior segurança do código)
-* React (biblioteca para interfaces web)
-* Next.js (framework React focado em SEO e performance)
-* TailwindCSS (framework utilitário de estilização)
-* Python (automações e scripts)
-* Vercel (deploy e hospedagem de aplicações web)
+### Desenvolvimento
+
+* JavaScript
+* TypeScript (JavaScript tipado)
+* React
+* Next.js (framework React focado em performance e SEO)
+* HTML
+* CSS
+* TailwindCSS
+
+### Backend e Dados
+
 * Supabase (backend, autenticação e banco de dados)
-* APIs públicas e integrações externas
+* APIs públicas
+* Integrações REST
+
+### Infraestrutura
+
+* Git
+* GitHub
+* Vercel
+* Linux
+* Windows
+
+### Automação
+
+* Python
+* Scripts administrativos
+* Ferramentas de produtividade
+
+---
+
+# 📦 Projetos em desenvolvimento
+
+### James Tech
+
+Portal institucional focado em suporte técnico, manutenção, consultoria e recomendações de tecnologia.
+
+### Calcular Minha Rescisão
+
+Ferramenta web voltada para cálculos trabalhistas, educação do usuário e aquisição de tráfego orgânico.
+
+### Tem Juros Abusivos
+
+Plataforma de triagem financeira com utilização de dados públicos e apoio à análise preliminar de contratos.
+
+### Onze Vidas
+
+Jogo web de gerenciamento esportivo focado em estratégia, evolução de equipes e gestão de clubes.
+
+### ERP Controll
+
+Sistema ERP desktop modular voltado para pequenas empresas.
+
+### Vigia de Posto
+
+Plataforma colaborativa para avaliação e transparência de postos de combustíveis.
+
+### SkillsV
+
+Marketplace voltado para compartilhamento de conhecimento e capacitação.
+
+### VaiComigo
+
+Projeto voltado para mobilidade urbana e conexão entre usuários.
+
+### If I Die
+
+Projeto experimental focado em conteúdo, registro e legado digital.
 
 ---
 
 # 🤖 Desenvolvimento assistido por IA
 
-Utilizo IA como ferramenta de aceleração no desenvolvimento, principalmente para:
+Utilizo IA como ferramenta de apoio para acelerar tarefas operacionais do desenvolvimento, incluindo:
 
-* boilerplate (estrutura inicial repetitiva do projeto)
-* refatoração (reestruturação e melhoria do código)
+* boilerplate (estrutura inicial repetitiva de projetos)
+* refatoração (melhoria da organização do código)
+* documentação
+* testes
 * automações
-* otimizações
-* ganho de produtividade operacional
 
-Mas toda definição de arquitetura, regras de negócio, UX (User Experience — experiência do usuário), SEO, funil e estrutura dos produtos é conduzida manualmente.
+As decisões de arquitetura, produto, regras de negócio, SEO, experiência do usuário e estratégia dos projetos são conduzidas manualmente.
 
 ---
 
-# 📚 Em aprendizado contínuo
+# 📈 Atualmente
 
-* Engenharia de software aplicada
-* Arquitetura de aplicações web
-* Automação de processos
-* UX/UI
-* SEO avançado
-* Performance web
-* Estruturação de produtos digitais
-* Segurança e boas práticas
+* Desenvolvendo produtos digitais próprios
+* Estudando Sistemas para Internet
+* Aprimorando conhecimentos em engenharia de software
+* Explorando automação, SEO e produtos SaaS
+* Construindo um portfólio de soluções voltadas para problemas reais
 
 ---
 
 # 🌐 Contato
 
-* [Site James Tech](https://jamestechbr.vercel.app/?utm_source=chatgpt.com)
-* [Instagram James Tech](https://www.instagram.com/jamestechbr/?utm_source=chatgpt.com)
-* [LinkedIn](https://www.linkedin.com/in/jamesoliveirabr/?utm_source=chatgpt.com)
-* [GitHub](https://github.com/jamesismos?utm_source=chatgpt.com)
+LinkedIn:
+linkedin.com/in/jamesoliveirabr
+
+GitHub:
+github.com/jamesismos
+
+Site:
+jamestechbr.vercel.app
+
+Instagram:
+@jamestechbr
