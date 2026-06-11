@@ -1,29 +1,57 @@
 # 👨‍💻 James Oliveira
 
+**Founder & Product Architect | Tecnologia, Produtos Digitais e Sistemas para Pequenos Negócios**
+
 Profissional de Tecnologia da Informação com mais de 10 anos de experiência prática em suporte técnico, infraestrutura, manutenção, sistemas e resolução de problemas em ambientes reais.
 
-Atuo na interseção entre tecnologia, automação, desenvolvimento web e produtos digitais, transformando necessidades reais em soluções funcionais.
+Hoje atuo na interseção entre **produto, arquitetura de sistemas, negócio, operação, UX e automação**, transformando problemas reais em soluções digitais simples, úteis e aplicáveis.
 
-Além da experiência em suporte e infraestrutura, desenvolvo plataformas web, MVPs (Minimum Viable Product — versão inicial funcional para validação rápida), automações e ferramentas voltadas para produtividade, aquisição de clientes e otimização de processos.
+Minha atuação não se limita a escrever código. Eu desenho fluxos, valido regras de negócio, estruturo MVPs, penso na experiência do usuário e defino como produtos digitais devem funcionar antes de serem implementados.
 
 ---
 
 # 🚀 O que faço
 
-* Suporte técnico presencial e remoto
-* Manutenção e otimização de computadores
-* Infraestrutura e redes de pequeno porte
+* Arquitetura de produto e sistemas
+* Desenho de fluxos e regras de negócio
+* Criação e validação de MVPs
 * Desenvolvimento de aplicações web
 * Automação de processos
-* Criação de MVPs
 * SEO (Search Engine Optimization — otimização para mecanismos de busca)
 * Integração com APIs públicas
-* Estruturação de funis de conversão
-* Documentação técnica
+* Documentação técnica e operacional
+* Suporte técnico presencial e remoto
+* Infraestrutura e redes de pequeno porte
+* Manutenção e otimização de computadores
+
+---
+
+# 🧠 Como penso produto
+
+Gosto de construir soluções partindo de perguntas simples:
+
+```txt
+Isso resolve um problema real?
+O cliente entenderia sem explicação?
+Esse fluxo faz sentido na rotina do negócio?
+Esse módulo precisa existir agora?
+O produto vende porque é útil ou só porque parece bonito?
+```
+
+Meu foco está em produtos digitais que conectam tecnologia com operação real, especialmente para pequenos negócios, profissionais autônomos e serviços locais.
 
 ---
 
 # 🛠️ Tecnologias e ferramentas
+
+### Produto e arquitetura
+
+* Product Discovery
+* Product Design
+* Systems Design
+* Modelagem de regras de negócio
+* Documentação de produto
+* Estratégia de MVP
 
 ### Desenvolvimento
 
@@ -59,6 +87,12 @@ Além da experiência em suporte e infraestrutura, desenvolvo plataformas web, M
 
 # 📦 Projetos em desenvolvimento
 
+### ERP Controll
+
+ERP modular e adaptativo para pequenos negócios, com foco em segmentos como serviços, agenda, vendas, estoque, financeiro, advocacia, pet shop, barbearia, salão de beleza e operações locais.
+
+O projeto combina núcleo universal, presets por segmento, regras reutilizáveis e experiência simplificada para quem precisa gerir o negócio sem depender de sistemas complexos demais.
+
 ### James Tech
 
 Portal institucional focado em suporte técnico, manutenção, consultoria e recomendações de tecnologia.
@@ -67,6 +101,10 @@ Portal institucional focado em suporte técnico, manutenção, consultoria e rec
 
 Ferramenta web voltada para cálculos trabalhistas, educação do usuário e aquisição de tráfego orgânico.
 
+### Calcular Meu INSS
+
+Ferramenta web em desenvolvimento voltada para simulações previdenciárias, orientação inicial e educação do usuário.
+
 ### Tem Juros Abusivos
 
 Plataforma de triagem financeira com utilização de dados públicos e apoio à análise preliminar de contratos.
@@ -74,10 +112,6 @@ Plataforma de triagem financeira com utilização de dados públicos e apoio à 
 ### Onze Vidas
 
 Jogo web de gerenciamento esportivo focado em estratégia, evolução de equipes e gestão de clubes.
-
-### ERP Controll
-
-Sistema ERP desktop modular voltado para pequenas empresas.
 
 ### Vigia de Posto
 
@@ -106,6 +140,7 @@ Utilizo IA como ferramenta de apoio para acelerar tarefas operacionais do desenv
 * documentação
 * testes
 * automações
+* análise de fluxos e regras de negócio
 
 As decisões de arquitetura, produto, regras de negócio, SEO, experiência do usuário e estratégia dos projetos são conduzidas manualmente.
 
@@ -113,11 +148,12 @@ As decisões de arquitetura, produto, regras de negócio, SEO, experiência do u
 
 # 📈 Atualmente
 
-* Desenvolvendo produtos digitais próprios
+* Construindo produtos digitais próprios
+* Estruturando o ERP Controll como produto modular e adaptativo
 * Estudando Sistemas para Internet
-* Aprimorando conhecimentos em engenharia de software
+* Aprimorando conhecimentos em engenharia de software, produto e negócios
 * Explorando automação, SEO e produtos SaaS
-* Construindo um portfólio de soluções voltadas para problemas reais
+* Criando soluções voltadas para problemas reais de pessoas e pequenas empresas
 
 ---
 
