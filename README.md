@@ -59,9 +59,11 @@ ERP modular e adaptativo em construção.
 
 **Status:** em desenvolvimento.
 
-O ERP Controll é o projeto mais ambicioso da Jamesystem Softwares: um sistema de gestão pensado para pequenos negócios, com núcleo universal e adaptação por segmento.
+O ERP Controll é o projeto mais ambicioso da Jamesystem Softwares: um sistema de gestão pensado para pequenos negócios, profissionais autônomos e empresas em crescimento, com núcleo universal e adaptação por segmento.
 
-A ideia central é simples: negócios diferentes não deveriam ser obrigados a usar o mesmo fluxo genérico.
+A ideia central é simples: a gestão precisa acompanhar a maturidade do negócio. O usuário pode começar como CPF/autônomo, evoluir para MEI e depois para empresa no Simples Nacional, sem abandonar o sistema nem refazer tudo do zero. Quem já nasce CNPJ também pode começar direto nesse modelo.
+
+Além disso, negócios diferentes não deveriam ser obrigados a usar o mesmo fluxo genérico. O Controll busca adaptar módulos, linguagem e operação ao segmento e ao estágio real de cada negócio.
 
 O sistema está sendo estruturado para atender segmentos como:
 
@@ -80,6 +82,7 @@ Principais decisões de arquitetura e produto:
 
 - núcleo universal reutilizável
 - presets por segmento
+- evolução por maturidade: CPF/autônomo, MEI e CNPJ/Simples Nacional
 - módulos ativáveis conforme o tipo de negócio
 - separação entre operação, financeiro, clientes, agenda e relatórios
 - foco em fluxo real de uso, não apenas em cadastro de dados
