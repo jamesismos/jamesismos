@@ -242,7 +242,7 @@ linkedin.com/in/jamesoliveirabr
 github.com/jamesismos
 
 **Site:**  
-jamestechbr.vercel.app
+em breve
 
 **Instagram:**  
 @jamestechbr
