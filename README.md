@@ -1,101 +1,121 @@
 # 👨‍💻 James Oliveira
 
-**Founder & Product Architect | Tecnologia, Produtos Digitais e Sistemas para Pequenos Negócios**
+**Founder & Product Architect | Jamesystem Softwares | Sistemas empresariais, produtos digitais e operação real**
 
-Profissional de Tecnologia da Informação com mais de 10 anos de experiência prática em suporte técnico, infraestrutura, manutenção, sistemas e resolução de problemas em ambientes reais.
+Crio sistemas e produtos digitais a partir de problemas reais de operação.
 
-Hoje atuo na interseção entre **produto, arquitetura de sistemas, negócio, operação, UX e automação**, transformando problemas reais em soluções digitais simples, úteis e aplicáveis.
+Meu foco não é apenas escrever código ou montar telas. Meu trabalho é transformar rotina, regra de negócio, atendimento, financeiro, processos e experiência do usuário em produtos simples, úteis e aplicáveis.
 
-Minha atuação não se limita a escrever código. Eu desenho fluxos, valido regras de negócio, estruturo MVPs, penso na experiência do usuário e defino como produtos digitais devem funcionar antes de serem implementados.
-
----
-
-# 🚀 O que faço
-
-* Arquitetura de produto e sistemas
-* Desenho de fluxos e regras de negócio
-* Criação e validação de MVPs
-* Desenvolvimento de aplicações web
-* Automação de processos
-* SEO (Search Engine Optimization — otimização para mecanismos de busca)
-* Integração com APIs públicas
-* Documentação técnica e operacional
-* Suporte técnico presencial e remoto
-* Infraestrutura e redes de pequeno porte
-* Manutenção e otimização de computadores
+Atuo na interseção entre **produto, arquitetura funcional, negócio, UX, automação e desenvolvimento guiado por IA**.
 
 ---
 
-# 🧠 Como penso produto
+# 🧭 Como penso produto
 
-Gosto de construir soluções partindo de perguntas simples:
+Antes de pensar em tecnologia, eu penso no funcionamento do negócio:
 
 ```txt
-Isso resolve um problema real?
-O cliente entenderia sem explicação?
-Esse fluxo faz sentido na rotina do negócio?
-Esse módulo precisa existir agora?
-O produto vende porque é útil ou só porque parece bonito?
+Qual problema real esse produto resolve?
+Quem usa isso no dia a dia?
+O fluxo faz sentido para uma pessoa comum?
+Quais dados entram?
+Quais decisões o sistema precisa apoiar?
+Esse módulo precisa existir agora ou só parece bonito?
+O produto ajuda a vender, operar, controlar ou decidir melhor?
 ```
 
-Meu foco está em produtos digitais que conectam tecnologia com operação real, especialmente para pequenos negócios, profissionais autônomos e serviços locais.
+Produto bom não nasce de empilhar funcionalidades. Nasce de entender a rotina, cortar o excesso e construir o que realmente move o negócio.
 
 ---
 
-# 🛠️ Tecnologias e ferramentas
+# 🧩 Jamesystem Softwares
 
-### Produto e arquitetura
+Frente principal de criação de sistemas próprios.
 
-* Product Discovery
-* Product Design
-* Systems Design
-* Modelagem de regras de negócio
-* Documentação de produto
-* Estratégia de MVP
+Aqui entram produtos pensados para resolver problemas operacionais de empresas, profissionais autônomos e pequenos negócios.
 
-### Desenvolvimento
+## Ponto Facill
 
-* JavaScript
-* TypeScript (JavaScript tipado)
-* React
-* Next.js (framework React focado em performance e SEO)
-* HTML
-* CSS
-* TailwindCSS
+Sistema de controle de ponto desenvolvido pela Jamesystem.
 
-### Backend e Dados
+**Status:** validado e em uso em empresas.
 
-* Supabase (backend, autenticação e banco de dados)
-* APIs públicas
-* Integrações REST
+O Ponto Facill nasceu para resolver uma dor objetiva: registrar, organizar e acompanhar jornadas de trabalho de forma simples, sem transformar controle de ponto em um monstro operacional.
 
-### Infraestrutura
+Atuação no produto:
 
-* Git
-* GitHub
-* Vercel
-* Linux
-* Windows
+- concepção do sistema
+- definição das regras de negócio
+- desenho dos fluxos principais
+- estruturação da experiência do usuário
+- validação em uso real
+- evolução com base em necessidade prática
 
-### Automação
+Esse projeto representa uma parte importante da minha evolução: sair da ideia, construir, validar e ver o sistema funcionando em ambiente real.
 
-* Python
-* Scripts administrativos
-* Ferramentas de produtividade
+## ERP Controll
+
+ERP modular e adaptativo em construção.
+
+**Status:** em desenvolvimento.
+
+O ERP Controll é o projeto mais ambicioso da Jamesystem Softwares: um sistema de gestão pensado para pequenos negócios, com núcleo universal e adaptação por segmento.
+
+A ideia central é simples: negócios diferentes não deveriam ser obrigados a usar o mesmo fluxo genérico.
+
+O sistema está sendo estruturado para atender segmentos como:
+
+- barbearia
+- salão de beleza
+- studio de unhas
+- pet shop
+- advocacia
+- assistência técnica
+- oficina
+- comércio
+- delivery
+- serviços locais
+
+Principais decisões de arquitetura e produto:
+
+- núcleo universal reutilizável
+- presets por segmento
+- módulos ativáveis conforme o tipo de negócio
+- separação entre operação, financeiro, clientes, agenda e relatórios
+- foco em fluxo real de uso, não apenas em cadastro de dados
+- interface pensada para pessoas que precisam operar rápido, não estudar sistema
+
+O Controll está em construção, mas já representa minha principal linha de pensamento como arquiteto de produto: transformar caos operacional em sistema organizado, vendável e evolutivo.
 
 ---
 
-# 📦 Projetos em desenvolvimento
+# 🛠️ Jamesystem Manutenções
 
-### ERP Controll
+Frente prática de suporte, manutenção e operação de TI.
 
-ERP modular e adaptativo para pequenos negócios, com foco em segmentos como serviços, agenda, vendas, estoque, financeiro, advocacia, pet shop, barbearia, salão de beleza e operações locais.
+Essa base técnica veio antes dos softwares e continua importante porque me mantém perto da realidade de quem usa tecnologia no mundo real: computador lento, rede falhando, backup inexistente, sistema mal configurado, usuário perdido e empresa dependendo de solução rápida.
 
-O projeto combina núcleo universal, presets por segmento, regras reutilizáveis e experiência simplificada para quem precisa gerir o negócio sem depender de sistemas complexos demais.
+Atuação nessa frente:
 
-### James Tech
+- diagnóstico técnico
+- manutenção de computadores
+- formatação e instalação de sistemas
+- upgrades com SSD, memória e componentes
+- backup e organização de arquivos
+- suporte Windows e Linux
+- configuração de ambientes de trabalho
+- orientação de compra de equipamentos
+- atendimento presencial e remoto
 
-Portal institucional focado em suporte técnico, manutenção, consultoria e recomendações de tecnologia.
+Essa experiência não é o centro da minha vitrine, mas é parte da minha vantagem: eu não penso produto só olhando tela bonita. Eu conheço o chão da operação.
+
+---
+
+# 🧪 Projetos pessoais e experimentais
+
+Projetos usados para validar ideias, testar aquisição de tráfego, explorar problemas reais e evoluir tecnicamente.
+
+## Ferramentas públicas, SEO e validação de demanda
 
 ### Calcular Minha Rescisão
 
@@ -103,11 +123,13 @@ Ferramenta web voltada para cálculos trabalhistas, educação do usuário e aqu
 
 ### Calcular Meu INSS
 
-Ferramenta web em desenvolvimento voltada para simulações previdenciárias, orientação inicial e educação do usuário.
+Ferramenta em desenvolvimento para simulações previdenciárias, orientação inicial e educação do usuário.
 
 ### Tem Juros Abusivos
 
-Plataforma de triagem financeira com utilização de dados públicos e apoio à análise preliminar de contratos.
+Plataforma de triagem financeira com uso de dados públicos e apoio à análise preliminar de contratos.
+
+## Laboratório de produto e inovação
 
 ### Onze Vidas
 
@@ -129,44 +151,95 @@ Projeto voltado para mobilidade urbana e conexão entre usuários.
 
 Projeto experimental focado em conteúdo, registro e legado digital.
 
+Esses projetos não competem com a Jamesystem Softwares. Eles funcionam como campo de teste para produto, UX, tráfego, automação, modelagem e validação de ideias.
+
 ---
 
-# 🤖 Desenvolvimento assistido por IA
+# 🤖 Desenvolvimento guiado por IA
 
-Utilizo IA como ferramenta de apoio para acelerar tarefas operacionais do desenvolvimento, incluindo:
+Utilizo IA como ferramenta de aceleração para transformar decisões de produto em implementação com mais velocidade.
 
-* boilerplate (estrutura inicial repetitiva de projetos)
-* refatoração (melhoria da organização do código)
-* documentação
-* testes
-* automações
-* análise de fluxos e regras de negócio
+A IA acelera a construção. A direção do produto é humana.
 
-As decisões de arquitetura, produto, regras de negócio, SEO, experiência do usuário e estratégia dos projetos são conduzidas manualmente.
+Minha atuação está em:
+
+- definir o problema certo
+- estruturar regras de negócio
+- desenhar fluxos
+- validar módulos
+- organizar arquitetura funcional
+- revisar criticamente o código gerado
+- documentar decisões
+- ajustar a experiência do usuário
+- conectar tecnologia com operação real
+
+Não trato IA como atalho para evitar pensamento técnico. Trato como força de execução para aumentar a velocidade de entrega, enquanto mantenho controle sobre lógica, produto, arquitetura e resultado.
+
+---
+
+# 🛠️ Stack e ferramentas
+
+## Produto e arquitetura
+
+- Product Discovery
+- Product Design
+- Systems Design
+- modelagem de regras de negócio
+- documentação técnica e operacional
+- estratégia de MVP
+- desenho de fluxos
+
+## Desenvolvimento web
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- TailwindCSS
+- HTML
+- CSS
+
+## Backend, dados e integrações
+
+- Supabase
+- APIs públicas
+- integrações REST
+- autenticação
+- modelagem de dados para MVPs
+
+## Infraestrutura e operação
+
+- Git
+- GitHub
+- Vercel
+- Linux
+- Windows
+- scripts administrativos
+- automações com Python
 
 ---
 
 # 📈 Atualmente
 
-* Construindo produtos digitais próprios
-* Estruturando o ERP Controll como produto modular e adaptativo
-* Estudando Sistemas para Internet
-* Aprimorando conhecimentos em engenharia de software, produto e negócios
-* Explorando automação, SEO e produtos SaaS
-* Criando soluções voltadas para problemas reais de pessoas e pequenas empresas
+- Construindo a Jamesystem Softwares como frente principal de produtos
+- Evoluindo o Ponto Facill a partir de uso real
+- Estruturando o ERP Controll como produto modular e adaptativo
+- Mantendo a Jamesystem Manutenções como base operacional de TI
+- Criando ferramentas públicas para SEO, validação de demanda e educação do usuário
+- Estudando engenharia de software, produto, negócios e automação com IA
 
 ---
 
 # 🌐 Contato
 
-LinkedIn:
+**LinkedIn:**  
 linkedin.com/in/jamesoliveirabr
 
-GitHub:
+**GitHub:**  
 github.com/jamesismos
 
-Site:
+**Site:**  
 jamestechbr.vercel.app
 
-Instagram:
+**Instagram:**  
 @jamestechbr
