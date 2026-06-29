@@ -2,9 +2,9 @@
 
 **Founder & Product Architect | Jamesystem Softwares | Sistemas empresariais, produtos digitais e operação real**
 
-Crio sistemas e produtos digitais a partir de problemas reais de operação.
+Construo sistemas e produtos digitais que acompanham a evolução dos negócios, desde o profissional autônomo até empresas estruturadas, transformando problemas reais em soluções simples, escaláveis e orientadas ao negócio.
 
-Meu foco não é apenas escrever código ou montar telas. Meu trabalho é transformar rotina, regra de negócio, atendimento, financeiro, processos e experiência do usuário em produtos simples, úteis e aplicáveis.
+Meu foco não é apenas escrever código ou montar telas. Meu trabalho é transformar rotina, regras de negócio, atendimento, financeiro, processos e experiência do usuário em produtos úteis, intuitivos e aplicáveis.
 
 Atuo na interseção entre **produto, arquitetura funcional, negócio, UX, automação e desenvolvimento guiado por IA**.
 
@@ -12,7 +12,7 @@ Atuo na interseção entre **produto, arquitetura funcional, negócio, UX, autom
 
 # 🧭 Como penso produto
 
-Antes de pensar em tecnologia, eu penso no funcionamento do negócio:
+Antes de pensar em tecnologia, eu penso no funcionamento do negócio.
 
 ```txt
 Qual problema real esse produto resolve?
@@ -24,175 +24,194 @@ Esse módulo precisa existir agora ou só parece bonito?
 O produto ajuda a vender, operar, controlar ou decidir melhor?
 ```
 
-Produto bom não nasce de empilhar funcionalidades. Nasce de entender a rotina, cortar o excesso e construir o que realmente move o negócio.
+Produto bom não nasce de empilhar funcionalidades. Nasce de entender a rotina, eliminar o excesso e construir o que realmente gera valor para quem utiliza.
+
+---
+
+# 📊 Em números
+
+- 💼 +14 anos de experiência em Tecnologia da Informação
+- 🏥 Experiência em ambientes corporativos, hospitalares e pequenos negócios
+- 🚀 Produtos próprios desenvolvidos e publicados
+- 🏢 Sistemas utilizados em empresas
+- 🤖 Desenvolvimento guiado por IA com foco em arquitetura, documentação e qualidade
 
 ---
 
 # 🧩 Jamesystem Softwares
 
-Frente principal de criação de sistemas próprios.
+Frente principal de desenvolvimento de produtos próprios.
 
-Aqui entram produtos pensados para resolver problemas operacionais de empresas, profissionais autônomos e pequenos negócios.
+Aqui nascem soluções voltadas para profissionais autônomos, pequenos negócios e empresas em crescimento.
 
-## Ponto Facill
+## 🕒 Ponto Facill
 
 Sistema de controle de ponto desenvolvido pela Jamesystem.
 
-**Status:** validado e em uso em empresas.
+**Status:** ✅ Validado e utilizado em empresas.
 
-O Ponto Facill nasceu para resolver uma dor objetiva: registrar, organizar e acompanhar jornadas de trabalho de forma simples, sem transformar controle de ponto em um monstro operacional.
+O Ponto Facill nasceu para resolver uma necessidade objetiva: registrar, organizar e acompanhar jornadas de trabalho de forma simples, sem transformar controle de ponto em um processo burocrático.
 
-Atuação no produto:
+Disponível nas versões Desktop e Web, com funcionamento offline e sincronização quando necessário.
 
-- concepção do sistema
+Minha atuação envolve:
+
+- concepção do produto
 - definição das regras de negócio
-- desenho dos fluxos principais
-- estruturação da experiência do usuário
+- arquitetura funcional
+- desenho dos fluxos operacionais
+- experiência do usuário
 - validação em uso real
-- evolução com base em necessidade prática
+- evolução contínua baseada na operação
 
-Esse projeto representa uma parte importante da minha evolução: sair da ideia, construir, validar e ver o sistema funcionando em ambiente real.
+Esse projeto representa uma etapa importante da minha trajetória: transformar uma ideia em um produto utilizado no dia a dia por empresas.
 
-## ERP Controll
+---
 
-ERP modular e adaptativo em construção.
+## 🏢 ERP Controll
 
-**Status:** em desenvolvimento.
+ERP modular e adaptativo para pequenos negócios.
 
-O ERP Controll é o projeto mais ambicioso da Jamesystem Softwares: um sistema de gestão pensado para pequenos negócios, profissionais autônomos e empresas em crescimento, com núcleo universal e adaptação por segmento.
+**Status:** 🚧 Em desenvolvimento.
 
-A ideia central é simples: a gestão precisa acompanhar a maturidade do negócio. O usuário pode começar como CPF/autônomo, evoluir para MEI e depois para empresa no Simples Nacional, sem abandonar o sistema nem refazer tudo do zero. Quem já nasce CNPJ também pode começar direto nesse modelo.
+O ERP Controll é o projeto mais ambicioso da Jamesystem Softwares.
 
-Além disso, negócios diferentes não deveriam ser obrigados a usar o mesmo fluxo genérico. O Controll busca adaptar módulos, linguagem e operação ao segmento e ao estágio real de cada negócio.
+Sua proposta é permitir que um negócio cresça sem precisar trocar de sistema. O usuário pode iniciar como profissional autônomo (CPF), evoluir para MEI e posteriormente operar como empresa do Simples Nacional utilizando a mesma plataforma.
 
-O sistema está sendo estruturado para atender segmentos como:
+Além disso, empresas diferentes não deveriam ser obrigadas a utilizar exatamente o mesmo fluxo operacional. O Controll adapta módulos, linguagem e processos conforme o segmento e a maturidade do negócio.
 
-- barbearia
-- salão de beleza
-- studio de unhas
-- pet shop
-- advocacia
-- assistência técnica
-- oficina
-- comércio
-- delivery
-- serviços locais
+Segmentos contemplados:
 
-Principais decisões de arquitetura e produto:
+- Barbearia
+- Salão de Beleza
+- Studio de Unhas
+- Pet Shop
+- Advocacia
+- Assistência Técnica
+- Oficina
+- Comércio
+- Delivery
+- Prestadores de Serviços
+
+Principais decisões de arquitetura:
 
 - núcleo universal reutilizável
+- evolução por maturidade (CPF → MEI → CNPJ)
 - presets por segmento
-- evolução por maturidade: CPF/autônomo, MEI e CNPJ/Simples Nacional
-- módulos ativáveis conforme o tipo de negócio
-- separação entre operação, financeiro, clientes, agenda e relatórios
-- foco em fluxo real de uso, não apenas em cadastro de dados
-- interface pensada para pessoas que precisam operar rápido, não estudar sistema
+- módulos ativáveis conforme a necessidade
+- separação entre operação, financeiro, agenda e relacionamento
+- foco em processos reais, não apenas em cadastros
+- interface pensada para operação rápida e intuitiva
 
-O Controll está em construção, mas já representa minha principal linha de pensamento como arquiteto de produto: transformar caos operacional em sistema organizado, vendável e evolutivo.
+Mais do que um ERP, o Controll representa minha visão sobre como sistemas empresariais deveriam evoluir junto com seus usuários.
 
 ---
 
 # 🛠️ Jamesystem Manutenções
 
-Frente prática de suporte, manutenção e operação de TI.
+Frente especializada em suporte técnico, manutenção e infraestrutura.
 
-Essa base técnica veio antes dos softwares e continua importante porque me mantém perto da realidade de quem usa tecnologia no mundo real: computador lento, rede falhando, backup inexistente, sistema mal configurado, usuário perdido e empresa dependendo de solução rápida.
+Foi nessa atuação que desenvolvi grande parte da experiência prática que utilizo hoje na criação de produtos.
 
-Atuação nessa frente:
+Atuação:
 
 - diagnóstico técnico
-- manutenção de computadores
-- formatação e instalação de sistemas
-- upgrades com SSD, memória e componentes
-- backup e organização de arquivos
-- suporte Windows e Linux
-- configuração de ambientes de trabalho
-- orientação de compra de equipamentos
-- atendimento presencial e remoto
+- manutenção preventiva e corretiva
+- instalação e configuração de Windows e Linux
+- upgrades (SSD, memória e componentes)
+- backup e recuperação de dados
+- redes locais
+- configuração de ambientes corporativos
+- suporte remoto e presencial
+- consultoria para aquisição de equipamentos
 
-Essa experiência não é o centro da minha vitrine, mas é parte da minha vantagem: eu não penso produto só olhando tela bonita. Eu conheço o chão da operação.
+Essa vivência me permite criar sistemas considerando a realidade operacional de quem está do outro lado da tela.
 
 ---
 
-# 🧪 Projetos pessoais e experimentais
+# 🚀 Projetos Independentes de James Oliveira
 
-Projetos usados para validar ideias, testar aquisição de tráfego, explorar problemas reais e evoluir tecnicamente.
+Nem todo projeto nasce para virar empresa.
 
-## Ferramentas públicas, SEO e validação de demanda
+Muitos surgem para resolver problemas reais, validar ideias, experimentar tecnologias ou simplesmente facilitar a vida das pessoas.
+
+## 🩺 Respira
+
+Aplicativo criado inicialmente para ajudar minha esposa durante o processo de parar de fumar.
+
+Com o tempo, evoluiu para uma ferramenta utilizada por diversas pessoas para acompanhar sua evolução, manter a motivação e desenvolver hábitos mais saudáveis.
+
+É um exemplo de como uma necessidade pessoal pode evoluir para uma solução útil para outras pessoas.
+
+---
+
+## 💼 Ferramentas públicas
 
 ### Calcular Minha Rescisão
 
-Ferramenta web voltada para cálculos trabalhistas, educação do usuário e aquisição de tráfego orgânico.
+Ferramenta voltada para cálculos trabalhistas e educação financeira.
 
 ### Calcular Meu INSS
 
-Ferramenta em desenvolvimento para simulações previdenciárias, orientação inicial e educação do usuário.
+Projeto voltado para simulações e orientação inicial sobre benefícios previdenciários.
 
 ### Tem Juros Abusivos
 
-Plataforma de triagem financeira com uso de dados públicos e apoio à análise preliminar de contratos.
+Plataforma de triagem financeira para análise preliminar de contratos.
 
-## Laboratório de produto e inovação
+---
 
-### Onze Vidas
+## 🚀 Laboratório de inovação
 
-Jogo web de gerenciamento esportivo focado em estratégia, evolução de equipes e gestão de clubes.
+Projetos utilizados para validar ideias, estudar tecnologias e experimentar novos modelos de produto.
 
-### Vigia de Posto
-
-Plataforma colaborativa para avaliação e transparência de postos de combustíveis.
-
-### SkillsV
-
-Marketplace voltado para compartilhamento de conhecimento e capacitação.
-
-### VaiComigo
-
-Projeto voltado para mobilidade urbana e conexão entre usuários.
-
-### If I Die
-
-Projeto experimental focado em conteúdo, registro e legado digital.
-
-Esses projetos não competem com a Jamesystem Softwares. Eles funcionam como campo de teste para produto, UX, tráfego, automação, modelagem e validação de ideias.
+- Onze Vidas
+- Vigia de Posto
+- SkillsV
+- VaiComigo
+- If I Die
+- outros MVPs e experimentos
 
 ---
 
 # 🤖 Desenvolvimento guiado por IA
 
-Utilizo IA como ferramenta de aceleração para transformar decisões de produto em implementação com mais velocidade.
+Utilizo Inteligência Artificial como ferramenta de aceleração para transformar decisões de produto em implementação com maior velocidade.
 
-A IA acelera a construção. A direção do produto é humana.
+A IA acelera a construção.
 
-Minha atuação está em:
+**A direção do produto continua sendo humana.**
 
-- definir o problema certo
-- estruturar regras de negócio
-- desenhar fluxos
-- validar módulos
-- organizar arquitetura funcional
-- revisar criticamente o código gerado
-- documentar decisões
-- ajustar a experiência do usuário
-- conectar tecnologia com operação real
+Minha atuação envolve:
 
-Não trato IA como atalho para evitar pensamento técnico. Trato como força de execução para aumentar a velocidade de entrega, enquanto mantenho controle sobre lógica, produto, arquitetura e resultado.
+- descoberta do problema
+- definição das regras de negócio
+- arquitetura funcional
+- desenho de fluxos
+- documentação
+- revisão crítica do código gerado
+- validação de funcionalidades
+- melhoria contínua da experiência do usuário
+
+Não utilizo IA para substituir pensamento técnico.
+
+Utilizo IA para aumentar produtividade, qualidade, velocidade de entrega e capacidade de experimentação.
 
 ---
 
-# 🛠️ Stack e ferramentas
+# 🛠️ Stack
 
-## Produto e arquitetura
+## Produto
 
 - Product Discovery
 - Product Design
-- Systems Design
-- modelagem de regras de negócio
-- documentação técnica e operacional
-- estratégia de MVP
-- desenho de fluxos
+- UX
+- Arquitetura Funcional
+- Modelagem de Regras de Negócio
+- MVP
+- Documentação Técnica
 
-## Desenvolvimento web
+## Desenvolvimento
 
 - TypeScript
 - JavaScript
@@ -201,48 +220,41 @@ Não trato IA como atalho para evitar pensamento técnico. Trato como força de 
 - TailwindCSS
 - HTML
 - CSS
-
-## Backend, dados e integrações
-
 - Supabase
-- APIs públicas
-- integrações REST
-- autenticação
-- modelagem de dados para MVPs
 
-## Infraestrutura e operação
+## Infraestrutura
 
 - Git
 - GitHub
-- Vercel
 - Linux
 - Windows
-- scripts administrativos
-- automações com Python
+- Vercel
+- Python
+- APIs REST
 
 ---
 
 # 📈 Atualmente
 
-- Construindo a Jamesystem Softwares como frente principal de produtos
-- Evoluindo o Ponto Facill a partir de uso real
-- Estruturando o ERP Controll como produto modular e adaptativo
-- Mantendo a Jamesystem Manutenções como base operacional de TI
-- Criando ferramentas públicas para SEO, validação de demanda e educação do usuário
-- Estudando engenharia de software, produto, negócios e automação com IA
+- 🚀 Expandindo a Jamesystem Softwares
+- 🏢 Evoluindo continuamente o ERP Controll
+- 🕒 Aprimorando o Ponto Facill com base em uso real
+- 🛠️ Mantendo a Jamesystem Manutenções
+- 💡 Criando novos produtos independentes
+- 📚 Evoluindo continuamente em Engenharia de Software, Arquitetura de Sistemas, Produto e Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
 # 🌐 Contato
 
-**LinkedIn:**  
+**LinkedIn**  
 linkedin.com/in/jamesoliveirabr
 
-**GitHub:**  
+**GitHub**  
 github.com/jamesismos
 
-**Site:**  
-em breve
+**Site**  
+Em breve
 
-**Instagram:**  
+**Instagram**  
 @jamestechbr
